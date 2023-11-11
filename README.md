@@ -6,7 +6,7 @@
 
 ## About The Project
 
-![Screen Shot](https://cdn.dribbble.com/users/2004171/screenshots/5699329/dribbble_canvas__home_loan_.gif)
+![logo](https://cdn.dribbble.com/users/2004171/screenshots/5699329/dribbble_canvas__home_loan_.gif)
 
 🔍 Project: Automated Loan Eligibility 🏦
 
