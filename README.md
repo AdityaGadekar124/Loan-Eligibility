@@ -46,4 +46,7 @@ Real-time Applicability: Designed the model for instant loan eligibility assessm
 🚀 Future Work:
 Considered potential avenues for future work, such as incorporating additional data sources or refining the model for continuous improvement.
 
+| No | Name |
+| -------- | -------- |
+| 1 | Aditya |
 
