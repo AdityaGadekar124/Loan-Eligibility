@@ -48,5 +48,5 @@ Considered potential avenues for future work, such as incorporating additional d
 
 | No | Name |
 | -------- | -------- |
-| 1 | Aditya |
+| **1** | *Aditya* |
 
